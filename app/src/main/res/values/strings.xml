@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Thirukkural</string>
+    <string name="card_title">திருவள்ளுவர்</string>
+    <string name="card_subtiltle">கவிஞர்</string>
+    <string name="card_body">வள்ளுவர் மதுரையிலும் பின்னர் மயிலாபுரம் அல்லது திருமயிலையிலும் (இன்றைய சென்னையில் மயிலாப்பூர்) வாழ்ந்ததாக நம்பப்படுகிறது. அவர் மயிலாபுரத்தில் பிறந்ததாகவும், பின்னர் அவரது வேலையை அரச நீதிமன்றத்தில் வெளியிடுவதற்காக மதுரைக்குச் சென்றதாகவும் கூறப்படுகிறது.</string>
+
+
+    <string name="appwidget_text">அகர முதல எழுத்தெல்லாம் ஆதி\nபகவன் முதற்றே உலகு</string>
+    <string name="add_widget">குறள்: 1 • கடவுள் வாழ்த்து</string>
+    <string name="app_widget_description">This is an app widget description</string>
+
+</resources>
+
